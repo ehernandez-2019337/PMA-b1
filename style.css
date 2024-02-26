@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 163, 163);
+}
+
+button{
+    padding: 10px 20px;
+    background-color: rgb(255, 242, 126);
+    color: rgb(18, 33, 250);
+    border: none;
+    border-radius: 50px;
+    cursor: hand;
+}
+
